@@ -16,7 +16,7 @@ void main() {
   // mengecek apakah map memiliki key tertentu
   print(mahasiswa.containsKey('umur'));
 
-  // mengecek apakaha map memiliki value tertentu
+  // mengecek apakah map memiliki value tertentu
   print(mahasiswa.containsValue('ayam geprek'));
 
   // mengembalikan panjang map

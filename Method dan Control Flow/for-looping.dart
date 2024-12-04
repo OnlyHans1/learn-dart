@@ -15,5 +15,5 @@ void main() {
   List daftarHewan = ['Sate', 'Ayam', 'Sapi'];
   for(int i = 0; i < daftarHewan.length; i++){
     print(daftarHewan[i]);
-  }
+  }  
 }

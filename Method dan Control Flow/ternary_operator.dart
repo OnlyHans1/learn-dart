@@ -8,7 +8,7 @@ void main() {
   */
 
   var angka = 8;
-  print((angka % 2 == 0) ? 'Genap' : 'Ganji');
+  print((angka % 2 == 0) ? 'Genap' : 'Ganjil');
 
   var num1 = 6;
   var num2 = num1 ?? 10;
